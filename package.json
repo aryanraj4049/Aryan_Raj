@@ -1,8 +1,7 @@
 {
   "name": "portofolio",
   "version": "0.1.0",
-  "private": true,
-  "homepage": "https://aryanraj4049.github.io/Portfolio_react/",
+  "homepage": "https://aryanraj4049.github.io//",
   "dependencies": {
     "-": "^0.0.1",
     "@emailjs/browser": "^3.4.0",
