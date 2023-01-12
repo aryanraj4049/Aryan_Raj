@@ -23,14 +23,14 @@
   font-size: 3rem;
 }
 .i-name > :nth-child(2) {
-  color: var(--orange);
+  color: var(--red);
   font-weight: bold;
   font-size: 3rem;
 }
 .i-name > :nth-child(3) {
   font-weight: 100;
-  font-size: 14px;
-  color: var(--gray);
+  font-size: 20px;
+  color: var(#2b010b);
   margin-top: 10px;
 }
 .i-button {
@@ -85,7 +85,7 @@
   width: 22rem;
   height: 14rem;
   border-radius: 50%;
-  background: #edd0ff;
+  background: #ad40f0;
   filter: blur(212px);
   z-index: -9;
   top: -18%;
