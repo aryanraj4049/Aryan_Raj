@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Aryan_Raj/static/css/main.1b6653aa.css",
+    "main.js": "/Aryan_Raj/static/js/main.13d1b47f.js",
+    "static/media/block_chain.gif": "/Aryan_Raj/static/media/block_chain.5270c8a3d79da090603d.gif",
+    "static/media/image.png": "/Aryan_Raj/static/media/image.d01ef73c8245fcb1c5eb.png",
+    "static/media/ecommerce.png": "/Aryan_Raj/static/media/ecommerce.522da76635d52117102b.png",
+    "static/media/front_gif.gif": "/Aryan_Raj/static/media/front_gif.d3121291bb1dabfc1138.gif",
+    "static/media/resume.pdf": "/Aryan_Raj/static/media/resume.944ae2c2747f86318de8.pdf",
+    "static/media/sidebar.png": "/Aryan_Raj/static/media/sidebar.b2225070b8adae68d063.png",
+    "static/media/musicapp.png": "/Aryan_Raj/static/media/musicapp.f1c301f91904ef5f9249.png",
+    "static/media/main_emoji.png": "/Aryan_Raj/static/media/main_emoji.1d2d639403390c74a9fd.png",
+    "static/media/hoc.png": "/Aryan_Raj/static/media/hoc.e6af51fc04c57ae67096.png",
+    "static/media/humble.png": "/Aryan_Raj/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/wave.png": "/Aryan_Raj/static/media/wave.fdfef4069ad90f610990.png",
+    "index.html": "/Aryan_Raj/index.html",
+    "main.1b6653aa.css.map": "/Aryan_Raj/static/css/main.1b6653aa.css.map",
+    "main.13d1b47f.js.map": "/Aryan_Raj/static/js/main.13d1b47f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b6653aa.css",
+    "static/js/main.13d1b47f.js"
+  ]
+}
